@@ -1,0 +1,10 @@
+.red-small-dot {
+  background-color: tomato;
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  position: absolute;
+  right: -10px;
+  top: -10px;
+}
